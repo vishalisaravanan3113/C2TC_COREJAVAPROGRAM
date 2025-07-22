@@ -18,7 +18,7 @@ public class CustomerDemo {
 		c2.setCid(102);
 		c2.setCname("suve");
 		c2.setCity("puducherry");
-		System.out.println(c2);//object printing
+		System.out.println(c2);//object printing`
 	}
 
 }
